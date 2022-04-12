@@ -1,0 +1,3 @@
+name: cloudbuild-demo
+runtime: nodejs
+description: Example cloudbuild deployment

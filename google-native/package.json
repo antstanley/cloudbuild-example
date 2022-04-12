@@ -1,0 +1,10 @@
+{
+    "name": "cloudbuild-demo",
+    "devDependencies": {
+        "@types/node": "^16.11.26"
+    },
+    "dependencies": {
+        "@pulumi/google-native": "^0.7.0",
+        "@pulumi/pulumi": "^3.1.0"
+    }
+}
